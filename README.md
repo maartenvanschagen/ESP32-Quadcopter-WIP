@@ -1,2 +1,2 @@
-# ESP32-Quadcopter-WIP
+# ESP32 Quadcopter (WIP)
 This is a quadcopter based on the ESP32
