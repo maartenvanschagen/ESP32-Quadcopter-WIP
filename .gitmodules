@@ -1,0 +1,6 @@
+[submodule "software/gyroLib"]
+	path = software/gyroLib
+	url = https://github.com/maartennl2002/gyroLib.git
+[submodule "software/remoteControllerLib"]
+	path = software/remoteControllerLib
+	url = https://github.com/maartennl2002/remoteControllerLib.git
